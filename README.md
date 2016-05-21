@@ -1,9 +1,9 @@
 **Soft Grid CSS**
-***
+___
 Soft Grid CSS Framework is a 12 column grid system.
 
 **Install**
-Underscores
+___
 [**Download**](https://github.com/baransomakli/softgrid/archive/master.zip)
 
 
