@@ -20,3 +20,5 @@ Soft Grid CSS Framework is a 12 column grid system.
 ```        
 
 Demo: http://baransomakli.com/demo/softgridfw/
+
+![alt tag](http://baransomakli.com/demo/softgridfw/softgrid.png)
