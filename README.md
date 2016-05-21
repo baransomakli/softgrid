@@ -1,4 +1,5 @@
-Soft Grid CSS Framework 12 kolonlu bir grid yapısıdır. 
+Soft Grid CSS Framework is a 12 column grid system.
+
 ```html
         <div class="container">
             <div class="row">
@@ -17,4 +18,5 @@ Soft Grid CSS Framework 12 kolonlu bir grid yapısıdır.
             </div>
         </div>
 ```        
+
 Demo: http://baransomakli.com/demo/softgridfw/
