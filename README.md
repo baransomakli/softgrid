@@ -6,8 +6,6 @@ Soft Grid CSS Framework is a 12 column grid system.
 ___
 [**Download**](https://github.com/baransomakli/softgrid/archive/master.zip)
 
-
-
 ```html
         <div class="container">
             <div class="row">
