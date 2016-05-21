@@ -1,4 +1,4 @@
-
+SoftGrid 12 kolonlu bir grid yapısıdır. 
 
         <div class="container">
             <div class="row">
@@ -16,3 +16,5 @@
                 <div class="nine colon">.nine.colon</div>
             </div>
         </div>
+        
+Demo: http://baransomakli.com/demo/softgridfw/
