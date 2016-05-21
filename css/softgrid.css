@@ -79,9 +79,12 @@
 .f-right {
     float: right;
 }
+
 .full-width {
     width: 100%;
-    box-sizing: border-box; }
+    box-sizing: border-box;
+}
+
 .container:after, .row:after {
     content: "";
     display: table;
