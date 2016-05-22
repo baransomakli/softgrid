@@ -57,6 +57,10 @@
 .colon:first-child {
     margin-left: 0;
 }
+.colon:nth-child(2) {
+    float:right;
+}
+.row { clear:both; }
 /*Colon*/
 .one.colon { width: calc(100%/12 * 1 - 20px); }
 .two.colon { width: calc(100%/12 * 2 - 20px); }
