@@ -47,11 +47,6 @@
 
 .colon {
 	margin-left:20px;
-    /* margin-left: 4%; */
-	
-	/* margin with dinamic values are not a good idea
-	   since it is scaled over dimention value
-	   this should be a static value like 20px */
 }
 
 .colon:first-child {
