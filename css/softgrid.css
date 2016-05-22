@@ -25,8 +25,8 @@
 }
 
 .colon {
-    width: 100%;
     float: left;
+    width: 100%;
     box-sizing: border-box;
 }
 
@@ -46,7 +46,7 @@
 }
 
 .colon {
-	margin-left:20px;
+    margin-left:20px;
 }
 
 .colon:first-child {
