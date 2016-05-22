@@ -46,30 +46,34 @@
 }
 
 .colon {
-    margin-left: 4%;
-
+	margin-left:20px;
+    /* margin-left: 4%; */
+	
+	/* margin with dinamic values are not a good idea
+	   since it is scaled over dimention value
+	   this should be a static value like 20px */
 }
 
 .colon:first-child {
     margin-left: 0;
 }
 /*Colon*/
-.one.colon { width: 4.66666666667%; }
-.two.colon { width: 13.3333333333%; }
-.three.colon { width: 22%; }
-.four.colon { width: 30.6666666667%; }
-.five.colon { width: 39.3333333333%; }
-.six.colon { width: 48%; }
-.seven.colon { width: 56.6666666667%; }
-.eight.colon { width: 65.3333333333%; }
-.nine.colon { width: 74.0%; }
-.ten.colon { width: 82.6666666667%; }
-.eleven.colon { width: 91.3333333333%; }
+.one.colon { width: calc(100%/12 * 1 - 20px); }
+.two.colon { width: calc(100%/12 * 2 - 20px); }
+.three.colon { width: calc(100%/12 * 3 - 20px); }
+.four.colon { width: calc(100%/12 * 4 - 20px); }
+.five.colon { width: calc(100%/12 * 5 - 20px); }
+.six.colon {  width: calc(100%/12 * 6 - 20px);  }
+.seven.colon { width: calc(100%/12 * 7 - 20px); }
+.eight.colon { width: calc(100%/12 * 8 - 20px); }
+.nine.colon { width: calc(100%/12 * 9 - 20px); }
+.ten.colon { width: calc(100%/12 * 10 - 20px); }
+.eleven.colon { width: calc(100%/12 * 11 - 20px); }
 .twelve.colon { width: 100%; margin-left: 0; }
-.one-third.colon { width: 30.6666666667%; }
-.two-thirds.colon { width: 65.3333333333%; }
-.one-half.colon { width: 48%; }
-
+.one-third.colon { width: calc(100%/3 - 20px); }
+.two-thirds.colon { width: calc(100%/3 * 2 - 20px); }
+.one-half.colon { width: calc(100%/2 - 20px); }
+/* values like %30.6666665 changed into calc() func. */
 }
 
 .f-left {
