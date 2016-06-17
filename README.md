@@ -28,4 +28,4 @@ ___
 
 [**Demo**](http://baransomakli.com/demo/softgridfw/)
 
-![alt tag](http://baransomakli.com/demo/softgridfw/softgrid.png)
+
