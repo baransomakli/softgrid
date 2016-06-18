@@ -15,7 +15,7 @@ ___
             </div>
     
             <div class="row">
-                <div class="two colon">.one.colon</div>
+                <div class="two colon">.two.colon</div>
                 <div class="ten colon">.ten.colon</div>
             </div>
     
