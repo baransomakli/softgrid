@@ -123,7 +123,6 @@ body {
 	font-family: "Roboto", Helvetica, Arial, sans-serif;
 	color: #444;
 }
-/* Typography */
 
 a {
 	color: #2196f3;
@@ -131,7 +130,7 @@ a {
 	font-size: 14px;
   font-weight: 400;
 }
-
+/* Typography */
 .button, button {
   display: inline-block;
   height: 40px;
