@@ -45,6 +45,19 @@ ___
         </div>
 ```       
 
+```html
+<div class="container">
+	<a href="#">Anasayfa</a>
+	<a href="#" class="button">Anasayfa</a>
+	<a href="#" class="button button-blue">Anasayfa</a>
+	<a href="#" class="button button-red">Anasayfa</a>
+	<a href="#" class="button button-green">Anasayfa</a>
+	<a href="#" class="button button-green-b">Anasayfa</a>
+	<a href="#" class="button button-green-l">Anasayfa</a>
+	<a href="#" class="button button-purple">Anasayfa</a>
+</div>
+```    
+
 [**Demo**](http://baransomakli.com/demo/softgridfw/)
 
 ![alt tag](http://baransomakli.com/demo/softgridfw/softgrid.png)
