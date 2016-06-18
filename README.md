@@ -10,12 +10,12 @@ ___
 ```html
         <div class="container">
             <div class="row">
-                <div class="one colon">.one.colon</div>
+                <div class="one colon">.one</div>
                 <div class="eleven colon">.eleven.colon</div>
             </div>
     
             <div class="row">
-                <div class="two colon">.two.colon</div>
+                <div class="two colon">.two</div>
                 <div class="ten colon">.ten.colon</div>
             </div>
     
@@ -24,7 +24,26 @@ ___
                 <div class="nine colon">.nine.colon</div>
             </div>
         </div>
-```        
+```  
+
+```html
+        <div class="container-lg">
+            <div class="row">
+                <div class="one colon">.one</div>
+                <div class="eleven colon">.eleven.colon</div>
+            </div>
+    
+            <div class="row">
+                <div class="two colon">.two</div>
+                <div class="ten colon">.ten.colon</div>
+            </div>
+    
+            <div class="row">
+                <div class="three colon">.three.colon</div>
+                <div class="nine colon">.nine.colon</div>
+            </div>
+        </div>
+```       
 
 [**Demo**](http://baransomakli.com/demo/softgridfw/)
 
